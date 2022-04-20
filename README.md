@@ -17,7 +17,7 @@ Overview
 What is Joomla?
 ---------------------
 * [Joomla!](https://www.joomla.org/about-joomla.html) is a **Content Management System** (CMS) which enables you to build websites and powerful online applications.
-* It is a simple and powerful web server application which requires a server with PHP and either MySQL or PostgreSQL to run. You can find [full technical requirements here](https://downloads.joomla.org/technical-requirements).
+* This is a server running PHP and a simple and powerful web server application that requires either MySQL or PostgreSQL to run. The complete [technical requirements are here.](https://downloads.joomla.org/technical-requirements).
 * Joomla! is **free and Open Source software** distributed under the GNU General Public License version 2 or later.
 
 Looking for an installable package?
