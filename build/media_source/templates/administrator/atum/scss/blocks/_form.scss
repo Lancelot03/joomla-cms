@@ -10,6 +10,11 @@
     border-color: $focuscolor;
     box-shadow: $focusshadow;
   }
+
+  &::placeholder {
+    font-size: .8rem;
+    font-style: italic;
+  }
 }
 
 .control-group {
@@ -56,10 +61,6 @@
 .spacer {
   hr {
     width: 380px;
-  }
-
-  label {
-    width: 440px;
   }
 }
 
